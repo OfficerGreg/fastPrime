@@ -1,0 +1,3 @@
+C:/Users/Jakub/Desktop/fastPrime/cmake-build-debug/CMakeFiles/fastPrime.dir
+C:/Users/Jakub/Desktop/fastPrime/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jakub/Desktop/fastPrime/cmake-build-debug/CMakeFiles/rebuild_cache.dir
